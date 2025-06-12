@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 5c6e241065bdd2e4296b5d4c85ffa5db
+  productGUID: 67f75c0ad1f828846b8ff531e1e37546
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -920,10 +920,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 724ec52e-ffec-445c-b638-d4bcf2244cef
+  cloudProjectId: dabc98f6-bd03-4add-b14e-c7033a49a987
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ProjectKY3
+  projectName: ProjectKY3 2025-06-12_09-56-21
   organizationId: ehgud
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
